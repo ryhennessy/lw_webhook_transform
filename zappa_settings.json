@@ -7,7 +7,7 @@
         "runtime": "python3.9",
         "s3_bucket": "zappa-grtesting",
         "aws_environment_variables": {
-            "GC_URL": "https://sadf.asdf.com/events/v2",
+            "GC_URL": "https://webhook.site/05026a44-a8eb-48c1-bff3-7b2c5d4e8152?",
             "CUSTOMER_KEY" : "23423432342342342"
        }
     }

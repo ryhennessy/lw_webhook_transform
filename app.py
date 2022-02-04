@@ -18,5 +18,4 @@ def format_call():
 
    x = requests.post(os.environ['GC_URL'], data=json.dumps(senddata))
 
-   print (json.dumps(senddata))
    return "All Good"
