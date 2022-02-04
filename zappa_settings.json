@@ -1,0 +1,14 @@
+{
+    "lacework": {
+        "app_function": "app.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "gr-testing",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-grtesting",
+        "aws_environment_variables": {
+            "GC_URL": "https://sadf.asdf.com/events/v2",
+            "CUSTOMER_KEY" : "23423432342342342"
+       }
+    }
+}
